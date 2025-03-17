@@ -133,7 +133,7 @@ function App() {
                 fontWeight: 'bold',
                 fontSize: '.62rem',
                 marginTop: '4rem',
-              }}>Coordenado pela equipe oficial do trote; Instagram: @troteintegrado</Typography></a>
+              }}>Todas as doações arrecadadas serão destinadas a campanha solidária do Trote Integrado, mais informações em <span style={{color:'black'}}>@troteintegrado</span></Typography></a>
             </Stack>
           </Stack>
         </Stack>
