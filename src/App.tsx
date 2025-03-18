@@ -105,7 +105,7 @@ function App() {
                 linkButton="https://wa.link/xxq9p3"
                 bgColorTitle={deepOrange[600]} // Insert deepOrange[600] here
                 positionImg="right"
-                textHref="(48) 9184-2809"
+                textHref="(48) 9184-2909"
               />
 
               <Card 
@@ -115,7 +115,7 @@ function App() {
                 linkButton="https://wa.link/xxq9p3"
                 bgColorTitle={pink[300]} // Insert deepOrange[600] here
                 positionImg="left"
-                textHref="(48) 9184-2809" />
+                textHref="(48) 9184-2909" />
 
               <Card 
                 title="DOAÇÕES MONETÁRIAS"
