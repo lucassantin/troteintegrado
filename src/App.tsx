@@ -109,7 +109,7 @@ function App() {
               />
 
               <Card 
-                title="DOAÇÕES DE ALIMENTOS"
+                title="DOAÇÕES ALIMENTOS"
                 description="Para a doação de alimentos não perecíveis, contate: "
                 img={trigo}
                 linkButton="https://wa.link/xxq9p3"
